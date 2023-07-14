@@ -12,6 +12,8 @@ Certifique-se de ter a seguinte configuração no pom.xml:
 - **Cucumber**
 - **AShot** (Para gerar Evidencias)
 
+Esses arquivos pom.xml busca feita no site [MVNRepository](https://mvnrepository.com/)
+
 #### Configuração do Projeto
 Clone este repositório para o seu ambiente local.
 Abra o Eclipse IDE (ou a IDE de sua preferência) e importe o projeto como um projeto Maven existente.
